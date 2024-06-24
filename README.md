@@ -1,4 +1,4 @@
-# Multi-Modal-Machine-Learning-Resources
+# Artificial-Intelligence-Fusion-Resources
 
 ## Journal
 
