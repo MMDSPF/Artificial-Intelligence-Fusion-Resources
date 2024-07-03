@@ -55,6 +55,10 @@ Foundations and Trends® in Computer Graphics and Vision, 2024. [[PDF](https://a
 *MA Manzoor, S Albarri, Z Xian, Z Meng, P Nakov, S Liang.*<br>
 ACM Transactions on Multimedia Computing, Communications and Applications, 2023. [[PDF](https://arxiv.org/pdf/2302.00389)]
 
+**Vision-language models for vision tasks: A survey.**<br>
+*J Zhang, J Huang, S Jin, S Lu.*<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. [[PDF](https://arxiv.org/pdf/2304.00685)]
+
 ## Representation
 
 **DeViSE: A Deep Visual-Semantic Embedding Model.**<br>
