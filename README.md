@@ -55,9 +55,17 @@ Foundations and Trends® in Computer Graphics and Vision, 2024. [[PDF](https://a
 *MA Manzoor, S Albarri, Z Xian, Z Meng, P Nakov, S Liang.*<br>
 ACM Transactions on Multimedia Computing, Communications and Applications, 2023. [[PDF](https://arxiv.org/pdf/2302.00389)]
 
+**Vlp: A survey on vision-language pre-training.**<br>
+*FL Chen, DZ Zhang, ML Han, XY Chen, J Shi, S Xu, B Xu.*<br>
+Machine Intelligence Research, 2023. [[PDF](https://link.springer.com/content/pdf/10.1007/s11633-022-1369-5.pdf)]
+
 **Vision-language models for vision tasks: A survey.**<br>
 *J Zhang, J Huang, S Jin, S Lu.*<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. [[PDF](https://arxiv.org/pdf/2304.00685)]
+
+**Mm-llms: Recent advances in multimodal large language models.**<br>
+*D Zhang, Y Yu, C Li, J Dong, D Su, C Chu, D Yu.*<br>
+arXiv:2401.13601, 2024. [[PDF](https://arxiv.org/pdf/2401.13601)]
 
 ## Representation
 
