@@ -43,10 +43,6 @@ TIP, 2017. [[PDF](https://ieeexplore.ieee.org/abstract/document/8103116)]
 *C Zhang, Z Yang, X He, L Deng.*<br>
 IEEE Journal of Selected Topics in Signal Processing, 2020. [[PDF](https://arxiv.org/pdf/1911.03977)]
 
-**Multibench: Multiscale benchmarks for multimodal representation learning.**<br>
-*PP Liang, Y Lyu, X Fan, Z Wu, Y Cheng, J Wu, et al.*<br>
-NeurlPS, 2021. 
-
 ## Representation
 
 **DeViSE: A Deep Visual-Semantic Embedding Model.**<br>
@@ -60,6 +56,10 @@ ICMR, 2018. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3206025.3206064)]
 **Deep multimodal representation learning: A survey.**<br>
 *W Guo, J Wang, S Wang.*<br>
 IEEE Access, 2019. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8715409)]
+
+**Multibench: Multiscale benchmarks for multimodal representation learning.**<br>
+*PP Liang, Y Lyu, X Fan, Z Wu, Y Cheng, J Wu, et al.*<br>
+NeurlPS, 2021. 
 
 ## Translation
 
