@@ -43,6 +43,18 @@ TIP, 2017. [[PDF](https://ieeexplore.ieee.org/abstract/document/8103116)]
 *C Zhang, Z Yang, X He, L Deng.*<br>
 IEEE Journal of Selected Topics in Signal Processing, 2020. [[PDF](https://arxiv.org/pdf/1911.03977)]
 
+**A survey on multimodal large language models.**<br>
+*S Yin, C Fu, S Zhao, K Li, X Sun, T Xu, et al.*<br>
+arXiv, 2023. [[PDF](https://arxiv.org/pdf/2306.13549)]
+
+**Multimodal foundation models: From specialists to general-purpose assistants.**<br>
+*C Li, Z Gan, Z Yang, J Yang, L Li, L Wang, J Gao.*<br>
+Foundations and Trends® in Computer Graphics and Vision, 2024. [[PDF]([https://arxiv.org/pdf/2306.13549](https://www.nowpublishers.com/article/DownloadSummary/CGV-110))]
+
+**Multimodality representation learning: A survey on evolution, pretraining and its applications.**<br>
+*MA Manzoor, S Albarri, Z Xian, Z Meng, P Nakov, S Liang.*<br>
+ACM Transactions on Multimedia Computing, Communications and Applications, 2023. [[PDF]([https://arxiv.org/pdf/2302.00389))]
+
 ## Representation
 
 **DeViSE: A Deep Visual-Semantic Embedding Model.**<br>
