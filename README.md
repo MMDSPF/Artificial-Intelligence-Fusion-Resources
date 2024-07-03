@@ -49,11 +49,11 @@ arXiv, 2023. [[PDF](https://arxiv.org/pdf/2306.13549)]
 
 **Multimodal foundation models: From specialists to general-purpose assistants.**<br>
 *C Li, Z Gan, Z Yang, J Yang, L Li, L Wang, J Gao.*<br>
-Foundations and Trends® in Computer Graphics and Vision, 2024. [[PDF]([https://arxiv.org/pdf/2306.13549](https://www.nowpublishers.com/article/DownloadSummary/CGV-110))]
+Foundations and Trends® in Computer Graphics and Vision, 2024. [[PDF](https://arxiv.org/pdf/2306.13549)]
 
 **Multimodality representation learning: A survey on evolution, pretraining and its applications.**<br>
 *MA Manzoor, S Albarri, Z Xian, Z Meng, P Nakov, S Liang.*<br>
-ACM Transactions on Multimedia Computing, Communications and Applications, 2023. [[PDF]([https://arxiv.org/pdf/2302.00389))]
+ACM Transactions on Multimedia Computing, Communications and Applications, 2023. [[PDF](https://arxiv.org/pdf/2302.00389)]
 
 ## Representation
 
